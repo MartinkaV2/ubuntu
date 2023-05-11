@@ -3,7 +3,7 @@ Ubuntu distrohoz való scriptek gaminghez
 
 # Néhány szó a scriptekről
 Eddig csak Ubuntu distron probáltam, többi ehhez haszonló distron nem tudom, hogy müdködik e. Javaslom, hogy telepitsd rá egy virtuális gépre az OP rendszert, ha
-kell, akkor finomhangold. Amint megvagy, akkor mehet élesben. Az 1update.sh fájlba olyan scriptet is tartalmaz, amely GNOME asztali felülethez való. Ha neked nem GNOME van, hanem KDE Plasna pl. azt vedd ki!
+kell, akkor finomhangold. Amint megvagy, akkor mehet élesbe. Az 1update.sh fájlba olyan scriptet is tartalmaz, amely GNOME asztali felülethez való. Ha neked nem GNOME van, hanem KDE Plasna pl. azt vedd ki!
 
 # Ubuntu distro(k)
 Ha Ubuntu distrot akarsz telepiteni olyan gépre, amelyen jól fut a gépeden, akkor biztosan görgölékeny lesz az élmény. De van olyan szituáció, amikor gyengébb gépre telepitenél OP rendszert, akkor nem biztos, hogy az Ubuntu, mint rendszer megfelelő rá. Ezért kategorizálni kell, hogy melyik-melyik fog megfelelően és simábban futni. Neve mellé odafogom irni, hogy hány GB/MB RAMot fogyaszt.
