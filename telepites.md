@@ -1,6 +1,11 @@
 # Teendők telepités előtt
-- Kell egy Pendrive, amely legalább 8GB-os.
+- Kell egy pendrive, amely legalább 8GB-os.
 - Letöltöd kiválasztott Distrod.
 - Rufus vagy Ventoyt letöltöd.
 - Bedugod Pendriveod gépedbe.
 - Rufushoz segédanyag: https://www.youtube.com/watch?v=lOy9LFNHHH4 Ventoyhoz: https://www.youtube.com/shorts/D310VkKOPMU
+- Ha kész, akkor kikapcsolod a géped (MIELŐTT MINDEN FONTOS ADATODAT, SZÉP EMLÉKEKET LEMENTED, MERT ELFOG VESZNI! de komolyan), belépsz BIOS-ba és kiválasztod a pendriveod, amellyel fogsz bootolni
+- Befog jönni egy menűsor, kiválasztod Try or Install Ubuntu-t
+- Semmi para, nem  virus, befog jönni egy asztal, amely két opció közül tudsz választani (Try Ubuntu vagy Install Ubuntu)
+- Kiválasztod a nyelved, billentyűzedet
+ -- FEJLESZTÉS ALATT VAN ---
