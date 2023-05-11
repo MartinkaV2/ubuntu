@@ -18,6 +18,6 @@ Asztali felülete: LXDE, LXQt
 Kubuntu ~ 600MB RAM usage 
 Hasonló, mint Lubuntu. Asztali felülete: KDE Plasma
 
-Scriptek, ahonnan vannak. RavePriest1
+# Scriptek, ahonnan vannak: RavePriest1
 twitch: RavePriest1
 Trovo: RavePriest1
