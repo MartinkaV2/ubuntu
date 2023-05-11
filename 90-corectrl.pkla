@@ -1,0 +1,4 @@
+[User permissions]
+Identity=unix-group:rave
+Action=org.corectrl.*
+ResultActive=yes
