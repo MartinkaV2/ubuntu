@@ -4,17 +4,17 @@
 # Disables screen lock
 gsettings set org.gnome.desktop.screensaver lock-enabled false
 gsettings set org.gnome.desktop.session idle-delay 0
-echo RAVECONSOLE -- Screen off when idle disabled
-echo RAVECONSOLE -- Screen lock disabled
+echo Martinka -- Screen off when idle disabled
+echo Martinka -- Screen lock disabled
 
 #New apps in the centre of the screen
 gsettings set org.gnome.mutter center-new-windows true
-echo RAVECONSOLE -- Center New Windows enabled
+echo Martinka -- Center New Windows enabled
 
 sudo systemctl disable geoclue.service
-echo RAVECONSOLE -- Geoclue service disabled
+echo Martinka -- Geoclue service disabled
 sudo systemctl mask geoclue.service
-echo RAVECONSOLE -- Geoclue service masked
+echo Martinka -- Geoclue service masked
 echo
 
 # Nala install
